@@ -20,4 +20,4 @@ jobs:
         with:
           context: DockerFolder/
           push: true
-          tags: pucp23cc020/fromgithub:latest
+          tags: kucp23cc020/fromgithub:latest
